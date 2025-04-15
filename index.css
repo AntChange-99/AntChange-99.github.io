@@ -134,7 +134,7 @@
 }
 
 .u-section-2 .u-layout-cell-2 {
-  min-height: 230px;
+  min-height: 235px;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -143,19 +143,19 @@
 
 .u-section-2 .u-text-1 {
   font-size: 2.25rem;
-  margin: 0;
+  margin: 10px 0 0;
 }
 
 .u-section-2 .u-text-2 {
-  margin: 20px 0 0;
+  margin: 0;
 }
 
 .u-section-2 .u-text-3 {
-  margin: 20px 0 0;
+  margin: 0;
 }
 
 .u-section-2 .u-text-4 {
-  margin: 20px 0 0;
+  margin: 0;
 }
 
 @media (max-width: 1199px) {
