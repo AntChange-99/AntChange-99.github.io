@@ -44417,13 +44417,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 115px;
+  min-height: 116px;
 }
 
 .u-footer .u-image-1 {
   width: 221px;
   height: 82px;
-  margin: 1px auto 33px;
+  margin: 17px auto;
 }
 @media (max-width: 1199px) {
   .u-footer .u-image-1 {
