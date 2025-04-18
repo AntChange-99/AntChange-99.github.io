@@ -169,7 +169,21 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 587px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 60px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: 36px;
+    margin-left: auto;
+  }
+
   .u-section-2 .u-layout-cell-2 {
-    min-height: 493px;
+    min-height: 604px;
   }
 }
