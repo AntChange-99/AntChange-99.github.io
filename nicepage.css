@@ -44384,6 +44384,8 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 111px;
   height: 64px;
   animation-timing-function: ease-in-out;
+  transform: scaleX(-1);
+  transform-origin: center center;
   margin: 24px auto 0 0;
 }
 
@@ -44465,6 +44467,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-image-1 {
   height: 65px;
   width: 113px;
+  transform: scaleX(-1);
+  transform-origin: center center;
   margin: 0 auto;
 }
 
