@@ -44687,7 +44687,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-social-icons-1 {
   white-space: nowrap;
   height: 37px;
-  width: 208px;
+  width: 225px;
   min-width: 94px;
   margin: 0 auto;
 }
@@ -44707,7 +44707,11 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-icon-4 {
   height: 0;
-  color: rgb(166, 206, 57) !important;
+}
+
+.u-footer .u-icon-5 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
